@@ -1,0 +1,48 @@
+#banner
+{
+	padding-top: 15px;
+	padding-bottom: 5px;
+	font-family: Parkavenue, cursive;
+	font-style: normal;
+	text-align: center;
+	font-weight: 600;
+	font-size: 200%;
+	color: #000000;
+}
+#content
+{
+	font-family: Parkavenue, cursive;
+	text-align: center;
+	font-style: normal;
+	color: #000000;
+}
+#navigation 
+{
+	width: 250px;
+	height: 0px;
+	float: left;
+	font-family: Parkavenue, cursive;
+	font-style: normal;
+	color: #000000;
+	margin-left: auto;
+	margin-right: auto;
+	position: fixed;
+}
+#navigation a
+{
+	text-decoration: none;
+	color: #000000;	
+	position: fixed;
+}
+#page
+{
+	position: relative;
+}
+body
+{
+	font-family: Parkavenue, cursive;
+	font-style: normal;
+	font-weight: 300;
+	background-color: #C0C0C0;
+	color: none;
+}
